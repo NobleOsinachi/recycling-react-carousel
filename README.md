@@ -1,4 +1,4 @@
-# recycling-react-carousel
+# Recycling React Carousel
 
 This carousel is designed to handle a large number of slides efficiently. It was originally created for my internal project and I decided to publish it. At the moment it almost fits my needs, but I will try to expand its functionality whenever possible.
 
